@@ -18,6 +18,7 @@ A sequel alpha version of [TamuFoods](https://github.com/John-Kimani/tamu_foods_
 2. e-Commerce shopping experience.
 3. View, products, add and remove quantity from cart.
 4. Adjust product quantity and checkout.
+5. State management using redux.
 
 ## Demo
 ##### Menu Section
