@@ -19,6 +19,13 @@ A sequel alpha version of [TamuFoods](https://github.com/John-Kimani/tamu_foods_
 3. View, products, add and remove quantity from cart.
 4. Adjust product quantity and checkout.
 
+## Demo
+##### Menu Section
+![TamuFoods Menu](assets/menu.png)
+
+##### Cart Section
+![TamuFoods Cart](assets/cart.png)
+
 ## Technologies used
 ---
 
